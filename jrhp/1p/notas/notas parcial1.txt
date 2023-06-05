@@ -1,0 +1,49 @@
+ls ver archivos
+cd (nombre de la carpeta) entrar a carpetas 
+cd .. para salir de una carpeta
+node (nombre del archivo y extensión) para ejecutar
+reducir un ciclo de 2 elementos, se llama mejora logaritmica
+tarea.
+generar un array 
+
+
+Array.push --> agregar datos a un array
+typeof.a --> va a decirnos que tipo de dato es el que tenemos
+instanceof ("tipo de dato") --> nos devuelve true or false
+Math.random --> nos regresa un numero aleatorio 0-0.9 con 16 digitos
+Math.floor --> redondea al numero anterior
+Math.ceil --> redondea al numero que sigue
+Math.round --> redondea al numero mas cercano al decimal
+array.sort --> orden de menor a mayor los datos del array
+funcion oraculo --> es una constante que nos da una respuesta en el mismo tiempo
+
+
+set --> es una instancia de set
+set --> no permite datos repetidos, se parece a un arreglo (add, size (set) -- push, length (array)).
+set: no permite datos de cualquier tipo que esten repetidos
+
+funcion flecha --> te ahorra la palabra function, return y las llaves de inicio y fin
+las llaves sirven para determinar sentencias compuestas (limitar).
+ES6 no incluye la interseccion pero se puede escribir.
+
+para eliminar numeros repetidos de un array podemos crear un set y despuès regresarlo en forma de array
+TAREA.
+crear tabla y anotar time/steps bubble(3 corridas). y sacar promedio.
+
+selection anotar time/steps (3 corridas) y calcular prmedio en una tabla de word.
+
+
+oraculo --> algoritmo que tiene respuesta a todo en tiempo constante
+puedo crear un objeto con llaves.
+new map--> crear mapa
+map.set --> agregar datos
+en un mapa agregamos llave-valor map.add(1,"one").
+
+sucesion: --> 1,2,..., n
+series: sigma--> 1+2+...+ n!
+aritmetica: --> i=i/n
+geometrica: --> pi*i = 1*2*...*n (i=1
+
+crear objeto --> let object1={}
+agregar propiedades (emptee.wigth = 56.9)
+
